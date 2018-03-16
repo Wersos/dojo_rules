@@ -3,3 +3,4 @@ Favourite Code School path: iOS
 Deadly skills:
 * This
 * That
+* Killing history using git rebase
